@@ -1,8 +1,10 @@
 /* Configuraçoes iniciais do site */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap");
 * {
   margin: 0;
   padding: 0;
   background-color: white;
+  font-family: "Open Sans", sans-serif;
 }
 
 /* MENU*/
@@ -91,7 +93,7 @@ p {
 /* rodape */
 footer {
   display: flex;
-  padding: 70px;
+  padding: 100px;
   justify-content: space-evenly;
 }
 .img_rodape {
